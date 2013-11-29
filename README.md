@@ -1,6 +1,7 @@
 ![alt tag](https://travis-ci.org/damnhipster/password-vault.png)
-
-password-vault
+Password Vault
 ==============
 
-Password-vault app for Ruby Club
+Password vault app for Ruby Club
+Has a CLI
+Stores passwords in mongodb
