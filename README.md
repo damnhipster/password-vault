@@ -1,3 +1,5 @@
+![alt tag](https://travis-ci.org/damnhipster/password-vault.png)
+
 password-vault
 ==============
 
