@@ -1,6 +1,5 @@
-# bowling_spec.rb
 require 'rspec'
-require_relative 'password_vault'
+require 'password_vault'
 
 describe PasswordVault do
   it "should return password when key is passed" do
